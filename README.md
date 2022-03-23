@@ -2,7 +2,7 @@
 
 Application built with React, Django REST framework, MySQL and Docker.
 
-To run the application, from the root folder:
+To run the application:
 
 ```
 git clone https://github.com/thejungwon/docker-reactjs.git
